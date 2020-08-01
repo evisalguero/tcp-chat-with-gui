@@ -9,3 +9,6 @@ Enter a name/username and then press "Connect".
 You should receive a welcome message. 
 
 Now you can begin chatting by typing a message in the bottom text box area!
+
+![GitHub Logo](/images/example.png)
+Format: ![Example Chat Session](url)
