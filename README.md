@@ -11,4 +11,3 @@ You should receive a welcome message.
 Now you can begin chatting by typing a message in the bottom text box area!
 
 ![Example Chat Session](/example.png)
-Format: ![Example Chat Session](url)
