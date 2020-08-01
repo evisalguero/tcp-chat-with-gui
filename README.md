@@ -10,5 +10,5 @@ You should receive a welcome message.
 
 Now you can begin chatting by typing a message in the bottom text box area!
 
-![GitHub Logo](/images/example.png)
+![Example Chat Session](/images/example.png)
 Format: ![Example Chat Session](url)
