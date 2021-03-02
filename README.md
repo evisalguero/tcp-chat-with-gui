@@ -1,5 +1,5 @@
 # tcp-chat-with-gui
-Allows multiple users (clients) to connect to a server and chat. Runs over TCP. Tkinter GUI to see the chat boxes. Python 3.
+Allows multiple users (clients) to connect to a server and chat. Runs over TCP. Tkinter GUI to see the chat boxes. Python 3. Followed online tutorial. 
 
 To run, first start chatserver.py by typing "python3 chatserver.py" in terminal.
 Then, press the "Start" button. 
